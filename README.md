@@ -1,7 +1,6 @@
-# student-management-system-python-
-This is my first beginner python project to understanding loops , function , tuple and dictionary
-# Student Management System (Python)
 
+# Student-management-system-python-
+This is my first beginner python project to understanding loops , function , tuple and dictionary
 This is a beginner-friendly Student Management System project written in Python.
 It is a console-based application.
 
